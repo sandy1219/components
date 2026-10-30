@@ -7,7 +7,7 @@ import (
 	cerr "github.com/cherry-game/cherry/error"
 	clog "github.com/cherry-game/cherry/logger"
 	cprofile "github.com/cherry-game/cherry/profile"
-	"github.com/go-redis/redis/v8"
+	"github.com/redis/go-redis/v9"
 )
 
 type (
